@@ -1,0 +1,16 @@
+/* Common */
+body {
+  margin: 50px;
+  padding: 0;
+}
+
+input,
+button {
+  padding: 7px;
+  height: 40px;
+}
+
+fieldset {
+  margin-bottom: 25px;
+}
+/*# sourceMappingURL=style.css.map */
